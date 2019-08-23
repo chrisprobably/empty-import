@@ -1,0 +1,16 @@
+{
+  "name": "empty-import",
+  "version": "1.0.0",
+  "description": "An empty import for use in conditional webpack includes or whatever you need it for",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": "https://github.com/chrisprobably/empty-import",
+  "author": "Chris Probably",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "tap": "^14.6.1"
+  }
+}
